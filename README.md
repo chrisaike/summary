@@ -6,7 +6,7 @@
 - <b>Simple Python Code to help you never to lose your files</b>
   - [Python Code: Automate Files Back-Ups](https://github.com/chrisaike/backupfiles.py)
   - [Connect the python code to Task Scheduler](https://github.com/chrisaike/Windows_Task_Scheduler_Procedure)
-  - [osTicket: Ticket Lifecycle examples](https://github.com/chrisaike/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/chrisaike/prerequisites-and-installation)
 - <b>Microsoft Azure</b>
   - [Configuration on-premises Active Directory within Azure virtual machines](https://github.com/aikechris/configure-ad) 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aikechris/azure-network-protocols)
