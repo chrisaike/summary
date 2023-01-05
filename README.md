@@ -8,9 +8,8 @@
   - [Connect the python code to Task Scheduler](https://github.com/chrisaike/Windows_Task_Scheduler_Procedure)
   - [osTicket: Prerequisites and Installation](https://github.com/chrisaike/prerequisites-and-installation)
 - <b>Microsoft Azure</b>
-  - [Configuration on-premises Active Directory within Azure virtual machines](https://github.com/aikechris/configure-ad) 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aikechris/azure-network-protocols)
-- <b>PowerShell</b>
+  - [Configuration on-premises Active Directory within Azure virtual machines](https://github.com/aikechris/Active-Directory-Deployment) 
+  - [Spin-up Virtual Machines in Azure Environment](https://github.com/aikechris/Azure-compute-and-networking)
   
   <h2>Connect with me: </h2>
   chrisaike1@gmail.com
